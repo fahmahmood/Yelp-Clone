@@ -42,6 +42,8 @@ group :test do
   gem 'rspec-collection_matchers'
 end
 
+gem 'devise'
+
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'web-console', '~> 2.0'
